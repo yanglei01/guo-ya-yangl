@@ -6,7 +6,8 @@
     <!--<suite-file path="api/User-TestSuite.xml"/>-->
     <!--<suite-file path="api/Order-TestSuite.xml"/>-->
     <!--<suite-file path="api/New-User-TestSuite.xml"/>-->
-    <suite-file path="api/New-Acc-TestSuite.xml"/>
+    <!--<suite-file path="api/New-Acc-TestSuite.xml"/>-->
+    <suite-file path="test/TestGuoYa.xml"/>
     <!--界面自动化-->
     <!--<suite-file path="ui/baidu/baidu-TestSuite.xml"/>-->
     <!--<suite-file path="ui/jd/jd-TestSuite.xml"/>
