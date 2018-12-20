@@ -42,7 +42,7 @@ public class BaseUI {
 				ChromeOptions options = new ChromeOptions();
 				// 最大化浏览器
 				options.addArguments("--test-type", "--start-maximized");
-				options.setBinary("C:\\Users\\guoya\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe");
+				options.setBinary("C:\\Users\\xue00\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe");
 				// options.setBinary("C:/XXXXXXX/chrome.exe");
 				// 打开浏览器
 				driver = new ChromeDriver(options);
