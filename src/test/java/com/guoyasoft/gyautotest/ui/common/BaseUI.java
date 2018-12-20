@@ -37,7 +37,7 @@ public class BaseUI {
 		//打开浏览器
 		// 设置环境变量，指定chromedriver的路径
 				System.setProperty("webdriver.chrome.driver",
-						"src\\test\\resources\\selenium\\driver\\243_69_71\\chromedriver.exe");
+						"src\\test\\resources\\selenium.driver.241_67_69\\chromedriver.exe");
 				// 设置浏览器的参数
 				ChromeOptions options = new ChromeOptions();
 				// 最大化浏览器
