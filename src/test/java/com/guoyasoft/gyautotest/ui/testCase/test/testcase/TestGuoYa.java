@@ -1,8 +1,8 @@
 package com.guoyasoft.gyautotest.ui.testCase.test.testcase;
 
 import com.guoyasoft.gyautotest.ui.common.BaseUI;
-import com.guoyasoft.gyautotest.ui.testCase.test.guoya.pages.GuoYaHome;
-import com.guoyasoft.gyautotest.ui.testCase.test.guoya.pages.SearchInterview;
+import com.guoyasoft.gyautotest.ui.testCase.test.taobao.pages.GuoYaHome;
+import com.guoyasoft.gyautotest.ui.testCase.test.taobao.pages.SearchInterview;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
  * @Description:
  */
 public class TestGuoYa extends BaseUI {
-    @Test
+ /*   @Test
     public void testSearchInterview2(){
         driver.get("http://www.guoyasoft.com:8080/guoya-client-qa/");
         addScreenshot2Allure("果芽首页");
@@ -37,6 +37,6 @@ public class TestGuoYa extends BaseUI {
 //        searchInterview.clickSearchButton();
         sleep(3);
     }
-
+*/
 
 }
